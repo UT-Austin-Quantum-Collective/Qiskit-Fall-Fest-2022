@@ -2,19 +2,21 @@
 ![Chandelier Graffiti Logo](https://user-images.githubusercontent.com/57876448/193329877-d0172471-2b6f-4e5e-a9d6-52f6f27b7fbd.png)
 
 # Welcome
-This is the Qiskit Fall Fest for The University of Texas at Austin. We're so exciting to have you all here. This event is being hosted by the [Quantum Collective at UT Austin](https://google.com). [If you don't know us yet, check us out here!](https://quantum-collective.webflow.io/)
+This is the Qiskit Fall Fest for The University of Texas at Austin. We're so exciting to have you all here. This event is being hosted by the [Quantum Collective at UT Austin](https://google.com). [If you don't know us yet, check us out here!](https://quantum-collective.webflow.io/) The [Qiskit Fall Fest](https://medium.com/qiskit/introducing-the-qiskit-fall-fest-feb8456b557) is a collection of quantum computing events on college campuses around the world. 
 
-The [Qiskit Fall Fest](https://medium.com/qiskit/introducing-the-qiskit-fall-fest-feb8456b557) is a collection of quantum computing events on college campuses around the world. Every Fall Fest event is organized and run by the students on each campus, with support from the entire IBM Quantum team. Student leaders work alongside IBM throughout the month of September to design and plan their event, which are then run in October. The events vary from technical hackathons to beginner-friendly challenges, all with the goal of helping to grow the local community’s skill set.
 
-## 
+## This Year's Challenge:
 
-The Quantum Collective's Fall Fest  is going to be a hackathon, starting on October 22nd. Details about the hackathon and rules can be found below. The deadline for all projects is October 24th, at 1pm ET. Any projects submitted after that will NOT be judged. Good luck!
+In our educationally themed hackathon, we ask participants to take on the challenge of learning a topic in quantum computing as part of our mission to make the entry barrier into quantum science accessible regardless of where you start. Before our kick-off ceremony, we spent a week hosting workshops to get students familiar with Qiskit and the fundamentals of Quantum Computing.
+
+This Year, we are happy to announce an integrated challenge with our Qauntum Partners! Stay Tuned for more info 😉
+
 
 --------------------------------
 # Official Registration
-- Before you register, read the full rules [here](https://github.com/qiskit-community/fall-fest-22/blob/main/Qiskit%20Fall%20Fest%20Official%20Rules%20Template.docx). This is a hackathon for MYCAMPUS only, if you are not a member of the MYCAMPUS community, you may not participate in this hackathon.
-- To officially sign up, register using [this link](https://airtable.com/)
-- add google form for registration
+- Before you register, read the full rules [here](https://github.com/qiskit-community/fall-fest-22/blob/main/Qiskit%20Fall%20Fest%20Official%20Rules%20Template.docx). This is a hackathon for **UT Austin Students** only, if you are not a student at UT Aautin, you may not participate in this hackathon.
+
+- To officially sign up, register using [this link](https://forms.gle/NPm3qgAaqenri5u98)
 - join the discord 
 - follow us on instagram 
 

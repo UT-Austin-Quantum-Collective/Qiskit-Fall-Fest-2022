@@ -2,7 +2,7 @@
 ![Chandelier Graffiti Logo](https://user-images.githubusercontent.com/57876448/193329877-d0172471-2b6f-4e5e-a9d6-52f6f27b7fbd.png)
 
 # Welcome
-This is the Qiskit Fall Fest for The University of Texas at Austin. We're so exciting to have you all here. This event is being hosted by the Quantum Collective at UT Austin.[If you don't know us yet, check us out here!](https://quantum-collective.webflow.io/) The [Qiskit Fall Fest](https://medium.com/qiskit/introducing-the-qiskit-fall-fest-feb8456b557) is a collection of quantum computing events on college campuses around the world. 
+This is the Qiskit Fall Fest for The University of Texas at Austin. We're so exciting to have you all here. This event is being hosted by the Quantum Collective at UT Austin. [If you don't know us yet, check us out here!](https://quantum-collective.webflow.io/) The [Qiskit Fall Fest](https://medium.com/qiskit/introducing-the-qiskit-fall-fest-feb8456b557) is a collection of quantum computing events on college campuses around the world. 
 
 
 ## This Year's Challenge:

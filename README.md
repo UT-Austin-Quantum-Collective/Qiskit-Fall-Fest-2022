@@ -32,12 +32,12 @@ This Year, we are happy to announce an integrated challenge with our Qauntum Par
 # Schedule
 
 
-### Fall Fest Workshop #1: Coding with Qiskit + Fundmentals of Quantum Programming
+### 🏃‍♀️ Fall Fest Workshop #1: Speedrun your Qiskit Knowledge 🏃‍♀️
 
 *Session Details: 10/20/2022, GDC 6.202, 7-8 PM*
 Kick off workshop!
 
-### Fall Fest Workshop # 2: Setting up your Qiskit Environment
+### 🛠 Fall Fest Workshop # 2: Setting up your Qiskit Environment 🛠
 *Date: 10/21/2022, TBD*
 **Location: TBD**
 

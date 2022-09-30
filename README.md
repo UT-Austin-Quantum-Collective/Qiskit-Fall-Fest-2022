@@ -77,7 +77,7 @@ Make sure to join the Discord / email thread / [communication channel](https://g
 <br>
 
 --------------------------------
-## Leanring Resources to get you started
+# [Leanring Resources to get you started](https://github.com/UT-Austin-Quantum-Collective/Qiskit-Fall-Fest-2022/blob/main/LearningResources.MD)
 
 
 

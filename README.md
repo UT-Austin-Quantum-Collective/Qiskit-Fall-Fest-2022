@@ -40,6 +40,10 @@ This Year, we are happy to announce an integrated challenge with our Qauntum Par
 - If you choose to use Azure Quantum: [insert instructions]
 - You can not start building your project before the Opening Ceremony, and you must submit your project by the deadline.
 
+## Hacking Space:
+Strangeworks info TBD
+UT Austin GDC office hours TBD
+
 
 --------------------------------
 # Schedule
@@ -64,7 +68,7 @@ Our second workshop will walk you through how to set up your Qiskit Developer En
 ### **👩‍💻HACKING BEGINS👩‍💻**
 *Session Details: 10/21/2022, 5 PM - 10/23/2022, 11:59 PM*
 - office hours info, Atrium 
-- Tentative, Strangeworks workign Space
+- Tentative, Strangeworks working Space
 - 
 
 ### 🎉Closing Ceremony🎉

@@ -85,7 +85,7 @@ Title and Abstract
 ### Sanjay Vishwakarma, IBM Quantum, QuantumGrad
 ***TBD***
 Title and Abstract
-### Shayam Shankar, IUT Austin
+### Shayam Shankar, UT Austin
 ***TBD***
 Title and Abstract
 

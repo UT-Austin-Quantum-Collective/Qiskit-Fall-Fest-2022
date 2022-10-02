@@ -82,7 +82,10 @@ Titla and Abstract
 ### Nick Bronn, IBM Quantum
 ***TBD***
 Title and Abstract
-### Sanjay Vishwakarma, IBM Quantum
+### Sanjay Vishwakarma, IBM Quantum, QuantumGrad
+***TBD***
+Title and Abstract
+### Shayam Shankar, IUT Austin
 ***TBD***
 Title and Abstract
 

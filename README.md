@@ -20,6 +20,9 @@ This Year, we are happy to announce an integrated challenge with our Qauntum Par
 
 ## Our Participating Partners:
 <img src="https://user-images.githubusercontent.com/57876448/193373395-37919cc6-1f16-426f-bc3a-532ebd6c0c2e.png" alt="drawing" width="200"  hspace="20" vspace="20"/>               <img src="https://user-images.githubusercontent.com/57876448/193373625-129ec4a4-0d34-4088-b04f-8f97f5619a88.png" alt="drawing" width="200"  hspace="20" vspace="20"/>               <img src="https://user-images.githubusercontent.com/57876448/193373825-f75bde83-2ef9-46d4-a488-2243a32a5139.png" alt="drawing" width="200" hspace="20" vspace="20"/>
+<img src="https://user-images.githubusercontent.com/57876448/193665227-67e83921-e662-4c6e-a2f3-b6aee6f49ebc.png" alt="drawing" width="200" hspace="20" vspace="20"/>
+
+
 
 
 

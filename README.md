@@ -78,7 +78,7 @@ Our second workshop will walk you through how to set up your Qiskit Developer En
 # Guest Speaker Schedule
 
 ### Dr. Scott Aaronson, UT Austin
-***10/19/22***
+***10/19/22 5:30 PM CST***
 Title and abstract
 ### Maria Mykhailova, Microsoft
 ***TBD***
@@ -87,10 +87,10 @@ Titla and Abstract
 ***TBD***
 Title and Abstract
 ### Sanjay Vishwakarma, IBM Quantum, QuantumGrad
-***TBD***
+*****10/17/2022 12 PM CST**
 Title and Abstract
 ### Dr.Shayam Shankar, UT Austin
-***TBD***
+***10/20/2022 3 PM CST***
 Title and Abstract
 
 <br>

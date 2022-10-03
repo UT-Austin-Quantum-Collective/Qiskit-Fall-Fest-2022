@@ -51,7 +51,7 @@ UT Austin GDC office hours TBD
 
 ### 🏃‍♀️ Fall Fest Workshop #1: Speedrun your Qiskit Knowledge 🏃‍♀️
 
-*Session Details: 10/18/2022, GDC 6.202, 7-8 PM*
+*Session Details: 10/20/2022, GDC 6.202, 7-8 PM*
 
 Our first workshop will cover the basics of Qiskit and the fundementals of Quantum computing to get get you prepared for a fun weekend of hacking with Qiskit. We will go over what Qiskit is, how to use Quantum gates, run circuits, and some of the math behind what makes quantum computing possible.
 

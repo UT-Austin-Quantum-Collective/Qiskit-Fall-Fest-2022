@@ -49,15 +49,15 @@ UT Austin GDC office hours TBD
 # Schedule
  Find the schedule below, or [download the PDF here](https://github.com/qiskit-community/fall-fest-22/blob/main/Fall%20Fest%20Workshop%20Schedule.pdf)
 
-### 🏃‍♀️ Fall Fest Workshop #1: Speedrun your Qiskit Knowledge 🏃‍♀️
+### 🏃‍♀️ Fall Fest Workshop #1: Speedrun your Quantum Knowledge 🏃‍♀️
 
-*Session Details: 10/20/2022, GDC 6.202, 7-8 PM*
+*Session Details: 10/17/2022, GDC 6.202, 7-8 PM*
 
 Our first workshop will cover the basics of Qiskit and the fundementals of Quantum computing to get get you prepared for a fun weekend of hacking with Qiskit. We will go over what Qiskit is, how to use Quantum gates, run circuits, and some of the math behind what makes quantum computing possible.
 
 ### 🛠 Fall Fest Workshop # 2: Setting up your Qiskit Environment 🛠
 
-*Date: 10/21/2022, TBD*
+*Date: 10/20/2022, TBD*
 
 Our second workshop will walk you through how to set up your Qiskit Developer Environment.
 

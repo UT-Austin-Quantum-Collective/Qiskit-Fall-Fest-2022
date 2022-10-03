@@ -12,9 +12,8 @@ This is the Qiskit Fall Fest for The University of Texas at Austin. We're so exc
 
 In our educationally themed hackathon, we ask participants to take on the challenge of learning a topic in quantum computing as part of our mission to make the entry barrier into quantum science accessible regardless of where you start. Before our kick-off ceremony, we spent a week hosting workshops to get students familiar with Qiskit and the fundamentals of Quantum Computing.
 
-### IBM Quantum Challenge
 
-### Azure Quantum Challenge
+### Azure Quantum Challenge Eligibility
 
 This Year, we are happy to announce an integrated challenge with our Qauntum Partners! Stay Tuned for more info 😉
 

@@ -28,8 +28,7 @@ This Year, we are happy to announce an integrated challenge with our Qauntum Par
 
 --------------------------------
 # Official Registration
-- Before you register, read the full rules [here](https://github.com/qiskit-community/fall-fest-22/blob/main/Qiskit%20Fall%20Fest%20Official%20Rules%20Template.docx). This is a hackathon for **UT Austin Students** only, if you are not a student at UT Austin, you may not participate in this hackathon.
-
+- Before you register, read the full rules [here](https://docs.google.com/document/d/1JuZAMwg3nSKEEUDc5v6ZfVDTGTUzXFXL/edit?usp=sharing&ouid=114487989066989860856&rtpof=true&sd=true). This is a hackathon for **UT Austin Students** only, if you are not a student at UT Austin, you may not participate in this hackathon
 - To officially sign up, register using [this link](https://forms.gle/NPm3qgAaqenri5u98)
 - [follow us on Instagram!](https://www.instagram.com/texasquantum/?hl=en)
 - Join the Qiskit Slack workspace [here](https://ibm.co/joinqiskitslack) if you haven't already. 
@@ -37,11 +36,20 @@ This Year, we are happy to announce an integrated challenge with our Qauntum Par
 
 
 
-# Hackathon Details
-- All projects submitted must follow the hackathon prompt, which we will reveal at the Opening Ceremony on Oct. 21nd at 5:30 PM
+# Hackathon and Challenge Rules:
 - All projects must use Qiskit, the open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules. You can [learn more about Qiskit and begin getting familiar here](https://qiskit.org/learn/).
-- If you choose to use Azure Quantum: [insert instructions]
-- You can not start building your project before the Opening Ceremony, and you must submit your project by the deadline.
+- All projects submitted must follow the hackathon prompt, which we will reveal at the Opening Ceremony on Oct. 21nd at 5:30 PM
+- All submissions must be built using Qiskit for at least 50 % of the code base.
+-	You may use other languages to build your project, but no more than 50 % of your project may be in a language other than Qiskit.
+-	All submissions must be built using an open source license, if applicable
+-	Projects built are owned by the teams which constructed them
+-	Teams must be at least 2 members, but no more than 4 members.
+-	To be eligible for one of our partner challenges, you must run your Qiskit programs on their development environment.
+-	You cannot begin building your project until the Hack-a-thon KICK-OFF on October 21, 5 PM CST 
+- You must submit your project before the provided deadline on October 23rd, 11:59 PM
+-	Full judging criteria can be found [here](https://docs.google.com/document/d/1JuZAMwg3nSKEEUDc5v6ZfVDTGTUzXFXL/edit?usp=sharing&ouid=114487989066989860856&rtpof=true&sd=true)
+-	Projects will be judged by the Officers of UT Quantum Collective following the Guidelines above
+
 
 ## Hacking Space:
 Strangeworks info TBD

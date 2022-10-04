@@ -4,6 +4,12 @@
 
 
 # Welcome
+
+## [REGISTER AS A TEAM OR INDIVIDUAL HERE](https://forms.gle/NPm3qgAaqenri5u98)
+![image](https://user-images.githubusercontent.com/57876448/193925903-3685c724-cc2f-47a9-9ac7-f716b72d6031.png)
+
+
+
 This is the Qiskit Fall Fest for The University of Texas at Austin. We're so exciting to have you all here. This event is being hosted by the Quantum Collective at UT Austin. [If you don't know us yet, check us out here!](https://quantum-collective.webflow.io/) The [Qiskit Fall Fest](https://medium.com/qiskit/introducing-the-qiskit-fall-fest-feb8456b557) is a collection of quantum computing events on college campuses around the world. 
 
 [Quantum sound intimidating? Check out last year's event, where over 50 quantum novices made amazing projects in just a weekend!](https://utqc.medium.com/ut-austin-qiskit-fall-fest-2021-aef227ef6c3b)

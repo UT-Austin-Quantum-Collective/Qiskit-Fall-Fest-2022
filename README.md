@@ -102,7 +102,12 @@ Our third workshop will walk you through how to set up your Qiskit environment a
 
 ### Dr. Scott Aaronson, UT Austin
 ***10/19/22 5:30 PM CST***
-Title and abstract
+
+**Title:** AMA with Dr. Aaronson
+
+**Abstract:**
+
+Dr. Scott Aaronson is one of the most prominent names in quantum computing today. He is the Schlumberger Centennial Chair of Computer Science at The University of Texas at Austin and director of its Quantum Information Center. His research centers around the capabilities and limits of quantum computers, and computational complexity theory more generally. At this meeting, you'll get a chance to ask him anything!
 ### Maria Mykhailova, Microsoft
 ***10/18/22 5:00 PM CST***
 Titla and Abstract

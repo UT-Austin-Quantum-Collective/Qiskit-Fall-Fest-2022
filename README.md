@@ -66,14 +66,14 @@ Our first workshop will cover the basics of Qiskit and the fundementals of Quant
 
 ### 🛠 Fall Fest Workshop # 2: Setting up your Azure Quantum Workspace with Mariia Mykhailova 🛠
 
-*Session Details: 10/18/2022, 5:00- 6:00 PM, virtual*
+*Session Details: 10/18/2022, 5:00- 6:00 PM, GDC and virtual*
 
 Our second workshop will walk you through how to set up your Azure Quantum Workspace with featured speaker, Mariia Mykhailova, from Azure Quantum. Through Azure Quantum, you can run your Fall Fest projects on real hardware backends.We will have continued support during the week in our Discord to help you set up your AQ workspace.
 
 
 ### 🛠 Fall Fest Workshop # 3: Setting up your Qiskit Environment 🛠
 
-*Session Details: 10/20/2022, 5:00- 6:00 PM, virtual*
+*Session Details: 10/20/2022, 5:00- 6:00 PM, GDC and virtual*
 
 Our third workshop will walk you through how to set up your Qiskit environment and run your fall fest projects on IBM's Quantum Computers and simulators. 
 
@@ -83,9 +83,8 @@ Our third workshop will walk you through how to set up your Qiskit environment a
 
 ### **👩‍💻HACKING BEGINS👩‍💻**
 *Session Details: 10/21/2022, 5 PM - 10/23/2022, 11:59 PM*
-- office hours info, Atrium 
-- Tentative, Strangeworks working Space
-- 
+- office hours info, GDC Atrium 
+- Tentative: Strangeworks working Space
 
 ### 🎉Closing Ceremony🎉
 *Session Details: 10/24/2022, GDC 2.216, 9-10 PM*

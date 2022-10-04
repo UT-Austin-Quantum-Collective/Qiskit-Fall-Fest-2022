@@ -105,6 +105,6 @@ Title and Abstract
 <br>
 
 --------------------------------
-# [Leanring Resources to get you started](https://github.com/UT-Austin-Quantum-Collective/Qiskit-Fall-Fest-2022/blob/main/LearningResources.MD)
+# [Learning Resources to get you started](https://github.com/UT-Austin-Quantum-Collective/Qiskit-Fall-Fest-2022/blob/main/LearningResources.MD)
 
 # [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)

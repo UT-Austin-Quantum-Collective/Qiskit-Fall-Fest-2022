@@ -93,7 +93,7 @@ Title and abstract
 ***TBD***
 Titla and Abstract
 ### Nick Bronn, IBM Quantum
-***TBD***
+***10/18/22 3:00 PM CST***
 Title and Abstract
 ### Sanjay Vishwakarma, IBM Quantum, QuantumGrad
 *****10/17/2022 12 PM CST**

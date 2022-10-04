@@ -15,7 +15,7 @@ In our educationally themed hackathon, we ask participants to take on the challe
 
 ### Azure Quantum Challenge Eligibility
 
-This Year, we are happy to announce an integrated challenge with our Partner-- Microsoft Azure Quantum! Your Qikit projects can be run on **real quantum hardware** on Azure Qauntum from IonQ, Rigetti, and Quantinium with Sponsored Tier Access for our Hack-a-thon. If you choose to use Azure Quantum for your Fall Fest project, then you are eligble for a seperate prize pool for our Azure Quantum Challenge. We will have workshops and office hours on Discord from the Microsoft team during the week leading up to the hack-a-thon.
+This Year, we are happy to announce an integrated challenge with our Partner-- Azure Quantum! Qikit projects can be run on **real quantum hardware** on Azure Qauntum from IonQ, Rigetti, and Quantinium for our Hack-a-thon. If you choose to use Azure Quantum for your Fall Fest project, then you are eligble for a seperate prize pool for our Azure Quantum Challenge. We will have workshops and office hours on Discord from the Microsoft team during the week leading up to the hack-a-thon.
 
 ## Our Participating Partners:
 <img src="https://user-images.githubusercontent.com/57876448/193373395-37919cc6-1f16-426f-bc3a-532ebd6c0c2e.png" alt="drawing" width="200"  hspace="20" vspace="20"/>               <img src="https://user-images.githubusercontent.com/57876448/193373625-129ec4a4-0d34-4088-b04f-8f97f5619a88.png" alt="drawing" width="200"  hspace="20" vspace="20"/>               <img src="https://user-images.githubusercontent.com/57876448/193373825-f75bde83-2ef9-46d4-a488-2243a32a5139.png" alt="drawing" width="200" hspace="20" vspace="20"/>

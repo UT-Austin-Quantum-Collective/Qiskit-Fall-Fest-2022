@@ -6,7 +6,7 @@
 # Welcome
 This is the Qiskit Fall Fest for The University of Texas at Austin. We're so exciting to have you all here. This event is being hosted by the Quantum Collective at UT Austin. [If you don't know us yet, check us out here!](https://quantum-collective.webflow.io/) The [Qiskit Fall Fest](https://medium.com/qiskit/introducing-the-qiskit-fall-fest-feb8456b557) is a collection of quantum computing events on college campuses around the world. 
 
-[Check out last year's event!](https://utqc.medium.com/ut-austin-qiskit-fall-fest-2021-aef227ef6c3b)
+[Quantum sound intimidating? Check out last year's event, where over 50 quantum novices made amazing projects in just a weekend!](https://utqc.medium.com/ut-austin-qiskit-fall-fest-2021-aef227ef6c3b)
 
 ## This Year's Theme: Education
 
@@ -15,7 +15,7 @@ In our educationally themed hackathon, we ask participants to take on the challe
 
 ### Azure Quantum Challenge Eligibility
 
-This Year, we are happy to announce an integrated challenge with our Qauntum Partners! Stay Tuned for more info 😉
+This Year, we are happy to announce an integrated challenge with our Partner-- Microsoft Azure Quantum! Your Qikit projects can be run on **real quantum hardware** on Azure Qauntum from IonQ, Rigetti, and Quaantinium with Sponsored Tier Access for our Hack-a-thon. If you choose to use Azure Quantum for your Fall Fest project, then you are eligble for a seperate prize pool for our Azure Quantum Challenge. We will have workshops and office hours on Discord from the Microsoft team during the week leading up to the hack-a-thon.
 
 ## Our Participating Partners:
 <img src="https://user-images.githubusercontent.com/57876448/193373395-37919cc6-1f16-426f-bc3a-532ebd6c0c2e.png" alt="drawing" width="200"  hspace="20" vspace="20"/>               <img src="https://user-images.githubusercontent.com/57876448/193373625-129ec4a4-0d34-4088-b04f-8f97f5619a88.png" alt="drawing" width="200"  hspace="20" vspace="20"/>               <img src="https://user-images.githubusercontent.com/57876448/193373825-f75bde83-2ef9-46d4-a488-2243a32a5139.png" alt="drawing" width="200" hspace="20" vspace="20"/>
@@ -64,11 +64,18 @@ UT Austin GDC office hours TBD
 
 Our first workshop will cover the basics of Qiskit and the fundementals of Quantum computing to get get you prepared for a fun weekend of hacking with Qiskit. We will go over what Qiskit is, how to use Quantum gates, run circuits, and some of the math behind what makes quantum computing possible.
 
-### 🛠 Fall Fest Workshop # 2: Setting up your Qiskit Environment 🛠
+### 🛠 Fall Fest Workshop # 2: Setting up your Azure Quantum Workspace with Mariia Mykhailova 🛠
 
-*Date: 10/20/2022, TBD*
+*Session Details: 10/18/2022, 5:00- 6:00 PM, virtual*
 
-Our second workshop will walk you through how to set up your Qiskit Developer Environment.
+Our second workshop will walk you through how to set up your Azure Quantum Workspace with featured speaker, Mariia Mykhailova, from Azure Quantum. Through Azure Quantum, you can run your Fall Fest projects on real hardware backends.We will have continued support during the week in our Discord to help you set up your AQ workspace.
+
+
+### 🛠 Fall Fest Workshop # 3: Setting up your Qiskit Environment 🛠
+
+*Session Details: 10/18/2022, 5:00- 6:00 PM, virtual*
+
+Our third workshop will walk you through how to set up your Qiskit environment and run your fall fest projects on IBM's Quantum Computers and simulators. 
 
 ### 🚀 Fall Fest Kick Off 🚀
 *Date: 10/21/2022, TBD*
@@ -90,7 +97,7 @@ Our second workshop will walk you through how to set up your Qiskit Developer En
 ***10/19/22 5:30 PM CST***
 Title and abstract
 ### Maria Mykhailova, Microsoft
-***TBD***
+***10/18/22 5:00 PM CST***
 Titla and Abstract
 ### Nick Bronn, IBM Quantum
 ***10/18/22 3:00 PM CST***

@@ -21,15 +21,17 @@ This Year, we are happy to announce an integrated challenge with our Partner-- M
 <img src="https://user-images.githubusercontent.com/57876448/193373395-37919cc6-1f16-426f-bc3a-532ebd6c0c2e.png" alt="drawing" width="200"  hspace="20" vspace="20"/>               <img src="https://user-images.githubusercontent.com/57876448/193373625-129ec4a4-0d34-4088-b04f-8f97f5619a88.png" alt="drawing" width="200"  hspace="20" vspace="20"/>               <img src="https://user-images.githubusercontent.com/57876448/193373825-f75bde83-2ef9-46d4-a488-2243a32a5139.png" alt="drawing" width="200" hspace="20" vspace="20"/>
 <img src="https://user-images.githubusercontent.com/57876448/193665227-67e83921-e662-4c6e-a2f3-b6aee6f49ebc.png" alt="drawing" width="200" hspace="20" vspace="20"/>
 
-
+# Stay Updated:
+- [Watch our events live on YouTube!](https://www.youtube.com/channel/UCh4RUelsW3hNgywsg5qtUdA)
+- [Follow us on Instagram](https://www.instagram.com/texasquantum/?hl=en)
+- [Follow us on Twitter](https://mobile.twitter.com/hookemhadamards)
 
 
 
 --------------------------------
 # Official Registration
 - Before you register, read the full rules [here](https://docs.google.com/document/d/1JuZAMwg3nSKEEUDc5v6ZfVDTGTUzXFXL/edit?usp=sharing&ouid=114487989066989860856&rtpof=true&sd=true). This is a hackathon for **UT Austin Students** only, if you are not a student at UT Austin, you may not participate in this hackathon
-- To officially sign up, register using [this link](https://forms.gle/NPm3qgAaqenri5u98)
-- [follow us on Instagram!](https://www.instagram.com/texasquantum/?hl=en)
+- [REGISTER AS A TEAM OR INDIVIDUAL HERE](https://forms.gle/NPm3qgAaqenri5u98)
 - Join the Qiskit Slack workspace [here](https://ibm.co/joinqiskitslack) if you haven't already. 
 - All hack-a-thon updates are through our Discord, so be sure to join after registering!
 
@@ -104,7 +106,7 @@ Title and Abstract
 ### Sanjay Vishwakarma, IBM Quantum, QuantumGrad
 *****10/17/2022 12 PM CST**
 Title and Abstract
-### Dr.Shayam Shankar, UT Austin
+### Dr. Shayam Shankar, UT Austin
 ***10/20/2022 3 PM CST***
 Title and Abstract
 

@@ -1,6 +1,5 @@
 # Project Ideas
 
-- [A platform for sharing, tracking, and running quantum experiments](https://qiskithackathon.global.bemyapp.com/#/projects/5f7baf291b8584001b261e3b)
 - [An improved method for quantum audio signal processing](https://github.com/scottoshiro2/IBM_QCHack_Challenge2021)
 - [The game QPong](https://github.com/HuangJunye/QPong)
 - [A working Quantum Steganography demo](https://github.com/born-2learn/QPower-QCHack_IBMCreative_challenge)

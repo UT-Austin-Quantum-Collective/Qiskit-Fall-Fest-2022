@@ -91,7 +91,7 @@ Our second workshop will walk you through how to set up your Azure Quantum Works
 
 ### 🛠 Fall Fest Workshop # 3: Setting up your Qiskit Environment 🛠
 
-*Session Details: 10/20/2022, 5:00- 6:00 PM, GDC 1.304 and virtual*
+*Session Details: 10/20/2022, 7:00- 8:00 PM, GDC 1.304 and virtual*
 
 Our third workshop will walk you through how to set up your Qiskit environment and run your fall fest projects on IBM's Quantum Computers and simulators. 
 

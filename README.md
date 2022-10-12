@@ -150,7 +150,7 @@ Quantum computers promise to solve certain problems that are intractable on any 
 
 ![sanjay](https://user-images.githubusercontent.com/57876448/195397758-0bfdb235-2a7f-45b8-9314-19347784ccd5.jpg)
 ### Sanjay Vishwakarma, IBM Quantum, QuantumGrad
-*****10/17/2022 12 PM CST, virtual**
+***10/17/2022 12 PM CST, virtual***
 
 **Title:** Quantum Computing 101
 

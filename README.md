@@ -96,8 +96,7 @@ Our second workshop will walk you through how to set up your Azure Quantum Works
 Our third workshop will walk you through how to set up your Qiskit environment and run your fall fest projects on IBM's Quantum Computers and simulators. 
 
 ### 🚀 Fall Fest Kick Off 🚀
-*Date: 10/21/2022, TBD*
-**Location: TBD**
+*Session Details: 10/21/2022, GDC 1.304 and Virtual, 5:00 PM - 6:00 PM CST*
 
 In our Fall Fest kick-off, we will go over our Hack-a-thon challenge, judging criteria, and show example Qiskit projects from last years event! We will also refresh on using Azure Quantum. Details about the Strangeworks space and Office Hours will be announced.
 

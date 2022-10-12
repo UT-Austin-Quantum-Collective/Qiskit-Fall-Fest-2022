@@ -78,7 +78,7 @@ Food will be provided.
 
 ### 🏃‍♀️ Fall Fest Workshop #1: Speedrun your Quantum Knowledge 🏃‍♀️
 
-*Session Details: 10/17/2022, GDC 6.202, 5:30- 6:30  PM*
+*Session Details: 10/17/2022, GDC 6.202 and virtual, 5:30- 6:30  PM*
 
 Our first workshop will cover the basics of Qiskit and the fundementals of Quantum computing to get get you prepared for a fun weekend of hacking with Qiskit. We will go over what Qiskit is, how to use Quantum gates, run circuits, and some of the math behind what makes quantum computing possible.
 
@@ -111,23 +111,26 @@ Dates/Times for Strangeworks:
 - **Sunday,  12 PM - 5 PM CST**
 
 ### 🎉Closing Ceremony🎉
-*Session Details: 10/24/2022, GDC 2.216, 9-10 PM*
+*Session Details: 10/24/2022, GDC 2.216 and virtual, 9-10 PM*
 
 In our closing ceremony, the winning teams will present their final projects to everyone in-person! Food will be provided.
 
 --------------------------------
 # Guest Speaker Schedule
+![scott](https://user-images.githubusercontent.com/57876448/195396444-105bd31e-dd7c-4c1c-a642-8907e410bb51.jpg)
 
 ### Dr. Scott Aaronson, UT Austin
-***10/19/22 5:30 PM CST***
+***10/19/22 5:30 PM CST, GDC 6.202***
 
 **Title:** AMA with Dr. Aaronson
 
 **Abstract:**
 
 Dr. Scott Aaronson is one of the most prominent names in quantum computing today. He is the Schlumberger Centennial Chair of Computer Science at The University of Texas at Austin and director of its Quantum Information Center. His research centers around the capabilities and limits of quantum computers, and computational complexity theory more generally. At this meeting, you'll get a chance to ask him anything!
+
+![mariia](https://user-images.githubusercontent.com/57876448/195396372-8717aed9-79d5-4000-8beb-d8063d902d31.jpg)
 ### Maria Mykhailova, Microsoft
-***10/18/22 5:00 PM CST***
+***10/18/22 5:00 PM CST, virtual***
 
 **Title:** Getting started with Azure Quantum:
 
@@ -135,16 +138,19 @@ Dr. Scott Aaronson is one of the most prominent names in quantum computing today
 
 Mariia Mykhailova is a principal software engineer at Microsoft Quantum, focusing on education and developer outreach. Mariia is the author and maintainer of the Quantum Katas project – an open-source collection of hands-on tutorials and exercises for learning quantum computing – and the author of the O’Reilly book “Q# Pocket Guide”. She is also a part-time lecturer at Northeastern University Seattle, teaching “Introduction to Quantum Computing”. 
 
+![nickb](https://user-images.githubusercontent.com/57876448/195397685-aad74924-fd57-4eb7-914b-50a1bc963086.jpg)
 ### Nick Bronn, IBM Quantum
-***10/18/22 3:00 PM CST***
+***10/18/22 3:00 PM CST, virtual***
 
 **Title:** Outlook for Quantum Computing with Superconducting Qubits
 
 **Abstract:**
 
 Quantum computers promise to solve certain problems that are intractable on any current or future classical computer. Recently, small-scale noisy quantum computing prototypes have been constructed, with those consisting of superconducting qubits a currently popular modality. In this talk, I'll give an overview of the history and physics of superconducting qubits, followed by IBM's hardware and software roadmaps for scaling these processors and their applications. As error mitigation is essential in the current era of noisy quantum hardware, I show how Qiskit Research facilitates the adoption of these research tools without the need for low-level knowledge of the underlying hardware and software.
+
+![sanjay](https://user-images.githubusercontent.com/57876448/195397758-0bfdb235-2a7f-45b8-9314-19347784ccd5.jpg)
 ### Sanjay Vishwakarma, IBM Quantum, QuantumGrad
-*****10/17/2022 12 PM CST**
+*****10/17/2022 12 PM CST, virtual**
 
 **Title:** Quantum Computing 101
 
@@ -158,6 +164,7 @@ Quantum computers promise to solve certain problems that are intractable on any 
 * Live Coding Session (Bell state coding)
 * Challenges in Quantum Computing
 
+![shayam](https://user-images.githubusercontent.com/57876448/195397793-450dba66-fce2-4601-a7da-ebb1a7c9123b.jpg)
 ### Dr. Shayam Shankar, UT Austin
 ***10/20/2022 3 PM CST***
 

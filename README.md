@@ -120,7 +120,7 @@ In our closing ceremony, the winning teams will present their final projects to 
 ![scott](https://user-images.githubusercontent.com/57876448/195396444-105bd31e-dd7c-4c1c-a642-8907e410bb51.jpg)
 
 ### Dr. Scott Aaronson, UT Austin
-***10/19/22 5:30 PM CST, GDC 6.202***
+***10/19/22 5:30 PM CST, GDC 6.302***
 
 **Title:** AMA with Dr. Aaronson
 

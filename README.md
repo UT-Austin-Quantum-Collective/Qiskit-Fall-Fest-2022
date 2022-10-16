@@ -123,6 +123,8 @@ In our closing ceremony, the winning teams will present their final projects to 
 
 **Title:** AMA with Dr. Aaronson
 
+https://utexas.zoom.us/j/96501812773
+
 **Abstract:**
 
 Dr. Scott Aaronson is one of the most prominent names in quantum computing today. He is the Schlumberger Centennial Chair of Computer Science at The University of Texas at Austin and director of its Quantum Information Center. His research centers around the capabilities and limits of quantum computers, and computational complexity theory more generally. At this meeting, you'll get a chance to ask him anything!
@@ -132,6 +134,8 @@ Dr. Scott Aaronson is one of the most prominent names in quantum computing today
 ***10/18/22 5:00 PM CST, virtual***
 
 **Title:** Getting started with Azure Quantum:
+
+https://utexas.zoom.us/j/96501812773
 
 **Abstract:**
 
@@ -143,6 +147,8 @@ Mariia Mykhailova is a principal software engineer at Microsoft Quantum, focusin
 
 **Title:** Outlook for Quantum Computing with Superconducting Qubits
 
+https://utexas.zoom.us/j/96501812773
+
 **Abstract:**
 
 Quantum computers promise to solve certain problems that are intractable on any current or future classical computer. Recently, small-scale noisy quantum computing prototypes have been constructed, with those consisting of superconducting qubits a currently popular modality. In this talk, I'll give an overview of the history and physics of superconducting qubits, followed by IBM's hardware and software roadmaps for scaling these processors and their applications. As error mitigation is essential in the current era of noisy quantum hardware, I show how Qiskit Research facilitates the adoption of these research tools without the need for low-level knowledge of the underlying hardware and software.
@@ -152,6 +158,8 @@ Quantum computers promise to solve certain problems that are intractable on any 
 ***10/17/2022 12 PM CST, virtual***
 
 **Title:** Quantum Computing 101
+
+https://utexas.zoom.us/j/96501812773
 
 **Abstract:**
 
@@ -168,6 +176,8 @@ Quantum computers promise to solve certain problems that are intractable on any 
 ***10/20/2022 3 PM CST***
 
 **Title:** Shankar lab projects - Superconducting quantum circuits group in ECE dept.
+
+https://utexas.zoom.us/j/96501812773
 
 **Abstract:**
 

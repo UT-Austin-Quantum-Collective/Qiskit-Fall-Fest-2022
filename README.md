@@ -80,16 +80,22 @@ Food will be provided.
 
 *Session Details: 10/17/2022, GDC 2.104 and virtual, 5:30- 6:30  PM*
 
+https://utexas.zoom.us/j/96501812773
+
 Our first workshop will cover the basics of Qiskit and the fundementals of Quantum computing to get get you prepared for a fun weekend of hacking with Qiskit. We will go over what Qiskit is, how to use Quantum gates, run circuits, and some of the math behind what makes quantum computing possible.
 
 ### 🛠 Fall Fest Workshop # 2: Setting up your Azure Quantum Workspace with Mariia Mykhailova 🛠
 
 *Session Details: 10/18/2022, 5:00 PM CST, virtual*
 
+https://utexas.zoom.us/j/96501812773
+
 Our second workshop will walk you through how to set up your Azure Quantum Workspace with featured speaker, Mariia Mykhailova, from Azure Quantum. Through Azure Quantum, you can run your Fall Fest projects on real hardware backends.We will have continued support during the week in our Discord to help you set up your AQ workspace.
 
 
 ### 🛠 Fall Fest Workshop # 3: Setting up your Qiskit Environment 🛠
+
+https://utexas.zoom.us/j/96501812773
 
 *Session Details: 10/20/2022, 7:00- 8:00 PM, GDC 1.304 and virtual*
 
@@ -97,6 +103,8 @@ Our third workshop will walk you through how to set up your Qiskit environment a
 
 ### 🚀 Fall Fest Kick Off 🚀
 *Session Details: 10/21/2022, GDC 1.304 and Virtual, 5:00 PM - 6:00 PM CST*
+
+https://utexas.zoom.us/j/96501812773
 
 In our Fall Fest kick-off, we will go over our Hack-a-thon challenge, judging criteria, and show example Qiskit projects from last years event! We will also refresh on using Azure Quantum. Details about the Strangeworks space and Office Hours will be announced.
 
@@ -111,6 +119,8 @@ Dates/Times for Strangeworks:
 
 ### 🎉Closing Ceremony🎉
 *Session Details: 10/24/2022, GDC 2.216 and virtual, 9-10 PM*
+
+https://utexas.zoom.us/j/96501812773
 
 In our closing ceremony, the winning teams will present their final projects to everyone in-person! Food will be provided.
 

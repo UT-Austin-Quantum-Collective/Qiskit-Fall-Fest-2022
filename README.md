@@ -1,4 +1,6 @@
 # Qiskit Fall Fest 2022
+
+## 🎥[WATCH OUR WORKSHOPS AND GUEST SPEAKERS ON YOUTUBE!🎥](https://www.youtube.com/playlist?list=PL6nuv2rOCeQQQHI-tJ7hkOiXtyd-Ko3a3)
 ![image](https://user-images.githubusercontent.com/57876448/193377002-e15b2207-5066-4639-b49e-468cb43e7fba.png)
 ![Chandelier Graffiti Logo](https://user-images.githubusercontent.com/57876448/193329877-d0172471-2b6f-4e5e-a9d6-52f6f27b7fbd.png)
 ## Our Participating Partners:
@@ -75,6 +77,7 @@ Food will be provided.
 --------------------------------
 # Schedule
  Find the schedule below, or [View it here](https://www.instagram.com/p/CjTRw4iOzCv/?hl=en)
+ ## 🎥[WATCH OUR WORKSHOPS AND GUEST SPEAKERS ON YOUTUBE!🎥](https://www.youtube.com/playlist?list=PL6nuv2rOCeQQQHI-tJ7hkOiXtyd-Ko3a3)
 
 ### 🏃‍♀️ Fall Fest Workshop #1: Speedrun your Quantum Knowledge 🏃‍♀️
 

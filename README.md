@@ -185,7 +185,7 @@ https://utexas.zoom.us/j/96501812773
 * Challenges in Quantum Computing
 
 ![shayam](https://user-images.githubusercontent.com/57876448/195397793-450dba66-fce2-4601-a7da-ebb1a7c9123b.jpg)
-### Dr. Shayam Shankar, UT Austin
+### Dr. Shyam Shankar, UT Austin
 ***10/20/2022 3 PM CST***
 
 **Title:** Shankar lab projects - Superconducting quantum circuits group in ECE dept.

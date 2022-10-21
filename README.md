@@ -7,7 +7,7 @@
 ## Our Participating Partners:
 <img src="https://user-images.githubusercontent.com/57876448/193373395-37919cc6-1f16-426f-bc3a-532ebd6c0c2e.png" alt="drawing" width="200"  hspace="20" vspace="20"/>               <img src="https://user-images.githubusercontent.com/57876448/195365270-9fc3bc5e-a02d-4231-8c5a-7230648c0da1.png" alt="drawing" width="200"  hspace="20" vspace="20"/>               <img src="https://user-images.githubusercontent.com/57876448/193373825-f75bde83-2ef9-46d4-a488-2243a32a5139.png" alt="drawing" width="200" hspace="20" vspace="20"/>
 <img src="https://user-images.githubusercontent.com/57876448/193665227-67e83921-e662-4c6e-a2f3-b6aee6f49ebc.png" alt="drawing" width="200" hspace="20" vspace="20"/>
-
+<img src="https://assets-global.website-files.com/60000db7a5f449af5e4590ac/600ff70a6d502227ac4ed049_OG.png" alt="drawing" width="200" hspace="20" vspace="20"/>
 
 # Welcome
 

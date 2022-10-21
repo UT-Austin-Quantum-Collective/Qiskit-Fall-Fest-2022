@@ -49,11 +49,11 @@ This Year, we are happy to announce an integrated challenge with our Partner-- A
 
 # Hackathon and Challenge Rules:
 - All projects must use Qiskit, the open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules. You can [learn more about Qiskit and begin getting familiar here](https://qiskit.org/learn/).
-- All projects submitted must follow the hackathon prompt, which we will reveal at the Opening Ceremony on Oct. 21nd at 5:30 PM
+- All projects submitted must follow the hackathon prompt, which we will reveal at the Opening Ceremony on Oct. 21nd at 5:00 PM
 -	You may use other languages to build your project, but no more than 50 % of your project may be in a language other than Qiskit.
 -	All submissions must be built using an open source license, if applicable
 -	Projects built are owned by the teams which constructed them
--	Teams must be at least 2 members, but no more than 4 members.
+-	Teams must be as an individual, but no more than 4 members. 
 -	To be eligible for one of our partner challenges, you must run your Qiskit programs on their development environment.
 -	You cannot begin building your project until the Hack-a-thon KICK-OFF on October 21, 5 PM CST 
 - You must submit your project before the provided deadline on October 23rd, 11:59 PM
